@@ -1,6 +1,6 @@
 # Demo Bulkhead
 
-max allowed calls for `/hello` endpoint is configured to `1`.
+max allowed calls for `/hello` endpoint is configured to `1` for the demo purpose.
 
 ```
 $ curl localhost:8080/hello -v
