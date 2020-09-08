@@ -3,7 +3,6 @@ package com.example.demobulkhead;
 import java.util.concurrent.TimeUnit;
 
 import io.github.resilience4j.bulkhead.annotation.Bulkhead;
-import io.github.resilience4j.bulkhead.annotation.Bulkhead.Type;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
